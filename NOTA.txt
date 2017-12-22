@@ -1,0 +1,4 @@
+El profesor dijo que no hagamos este ejercicio ya que tiene muchisimas combinaciones
+por ser probadas y entonces el codigo se vuelve inmenso y no es la idea.
+Aun así, yo lo hice antes de que diga eso y el ejercicio anda bien pero no contempla todas las
+combinaciones y, por ende, cuando el caso de entrada es alguna de esas combinaciones, su salida es erronea.
